@@ -1,2 +1,2 @@
 # nanos-bp-events
-Call Lua Events from blueprints
+# [Wiki](https://github.com/vugi99/nanos-bp-events/wiki)
